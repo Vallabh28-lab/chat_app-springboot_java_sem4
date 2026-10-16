@@ -1,6 +1,25 @@
 Realtime Chat Application using Spring Boot
 ===========================================================
 
+Vallabh Sardesai : 
+Designed and implemented the core backend architecture using Java and Spring Boot to handle data structures and messaging business logic. Developed the foundational ChatMessage data models, enumerations, and controller mappings (@MessageMapping and @SendTo) to seamlessly process and route real-time payloads across the network.
+
+Jay B : • configuring deep infrastructure where a single misspelled mapping or wrong broker prefix will break the entire network connection completely.
+
+Atharv Sawant : •  Spring's internal event wrappers (StompHeaderAccessor, session maps) to extract data out of raw network envelopes, which can be tricky to debug.
+
+
+
+
+
+
+
+
+
+
+
+
+
 * * *
 
 ##### Introduction
